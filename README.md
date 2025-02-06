@@ -1,7 +1,3 @@
-Here's a **README** for your **Task Tracker CLI App**, formatted in Markdown. It includes **setup instructions, usage guide, and example commands** to help users understand how to use it.  
-
----
-
 ### 📌 **README.md** for Task Tracker CLI  
 ```markdown
 # 📝 Task Tracker CLI (Java)  
