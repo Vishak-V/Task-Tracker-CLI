@@ -1,4 +1,4 @@
-```markdown
+
 # 📝 Task Tracker CLI (Java)  
 
 A simple **Task Tracker Command-Line Interface (CLI) application** built in **Java**. This project was created as a learning exercise to understand Java fundamentals, including **classes, objects, I/O handling, and ArrayLists**.
