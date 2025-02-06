@@ -48,7 +48,9 @@ The CLI accepts **commands** to manage tasks. Below are the supported commands:
 | `list in-progress`       | Lists only **in-progress tasks**    | `list in-progress` |
 | `exit`                   | Exits the CLI                       | `exit` |
 
+## Project URL
 
+https://roadmap.sh/projects/task-tracker
 
 ---
 
