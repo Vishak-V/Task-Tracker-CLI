@@ -1,4 +1,3 @@
-### 📌 **README.md** for Task Tracker CLI  
 ```markdown
 # 📝 Task Tracker CLI (Java)  
 
